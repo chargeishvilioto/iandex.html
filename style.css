@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:gray;
+}
+
+header img{
+    width:200px;
+    height:200px;
+    background-color: gray;
+    margin-left: 230px;
+    padding:20px
+}
+
+a{
+ text-align:center;
+ background-color:brown;
+ padding:20 px;
+ font-size:50px;
+ margin-left:285px;
+ margin-top:10px
+ text-decoration:none;
+}
+
+.paragraf{
+    background-color:red;
+    color:blue;
+    padding:10px;
+    font-size:25px;
+    border:5px dashed black;
+}
+footer{ 
+    background-color:blue;
+    padding:15px;
+
+}
+
+footer p{
+    background-color: white;
+    color:darkblue;
+    padding:10px;
+}
+main img{
+    margin:20px;
+}
+ul,.para{
+    background-color:whitesmoke;
+    margin:20px;
+    border:3px doubled black;
+    font-size:20px
+}
+    
+
+
+
